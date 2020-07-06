@@ -1,0 +1,10 @@
+data/
+img/
+weights/
+*.weights
+*.tflite
+__pycache__/**
+yolov3_tf2/__pycache__/**
+test/
+saved/**
+.vscode
